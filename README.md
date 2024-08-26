@@ -25,4 +25,4 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="50"> 
 
 #
-### Github stats :<br><br> ![Jaliscode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jaliscode&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaliscode&layout=compact&theme=radical)
+### Github stats :<br><br> ![Sukida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukidadev&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukidadev&layout=compact&theme=radical)
