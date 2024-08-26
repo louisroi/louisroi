@@ -9,7 +9,7 @@
 #
 ### Contact me on discord :
 <div style="display : flex; width : 100%; padding-left : 1.5rem">
-<br><img style="width : 45%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1133196664505643169.png">
+<br><img style="width : 45%; height : auto;" src="https://discord.c99.nl/widget/theme-4/1272731242588016764.png">
 </div>
 
 <br><br>
