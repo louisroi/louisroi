@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+im+Sukida)](https://git.io/typing-svg)
 
 
-### I am passionate about managing and executing all types of projects.
+ I am passionate about managing and executing all types of projects.
 
 - <p><img src="https://cdn3d.iconscout.com/3d/premium/thumb/cyber-securityprotect-shield-8936474-7277200.png?f=webp" width="15"><b> Cybersecurity learning </p>
 
