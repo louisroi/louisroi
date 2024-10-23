@@ -16,8 +16,8 @@
 #
 ## 🖥️ Programming languages & Frameworks :
 <a href="https://www.python.org"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-<a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
 <a href="https://html.spec.whatwg.org"><img src="https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://img.shields.io/badge/css-%23239120.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"></a>
 #
 ## Tools :
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="50"> 
