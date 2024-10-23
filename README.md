@@ -8,9 +8,9 @@
 <b></p><br>
 #
 ### Contact me on discord :
-<div style="display : flex; width : 100%; padding-left : 1.5rem">
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/1072553881134972970)](https://discord.com/users/1272731242588016764)
-</div>
+
 
 <br><br>
 #
