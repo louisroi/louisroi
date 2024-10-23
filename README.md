@@ -27,4 +27,4 @@
 
 #
 ### Github stats :<br><br> ![Sukida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukidadev&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukidadev&layout=compact&theme=radical)<br>
-[![](https://visitcount.itsvg.in/api?id=Sukidadev&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Sukidadev&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
