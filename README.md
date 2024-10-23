@@ -9,7 +9,7 @@
 #
 ### Contact me on discord :
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1072553881134972970)](https://discord.com/users/1272731242588016764)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1272731242588016764)](https://discord.com/users/1272731242588016764)
 
 
 <br><br>
