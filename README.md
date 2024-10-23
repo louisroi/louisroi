@@ -1,4 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+im+Sukida)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+im+Sukida)](https://git.io/typing-svg)<br>
+[![](https://visitcount.itsvg.in/api?id=Sukidadev&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ### I am passionate about managing and executing all types of projects.
 
