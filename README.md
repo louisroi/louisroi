@@ -24,7 +24,7 @@
 
 #
 ## 📊 Github stats : 
-![Sukida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukidadev&show_icons=true&theme=radical)
+![Sukidadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukidadev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukidadev&layout=compact&theme=radical)
 
 ---
