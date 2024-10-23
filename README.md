@@ -3,9 +3,9 @@
 
  I am passionate about managing and executing all types of projects.
 
-- <img src="https://cdn3d.iconscout.com/3d/premium/thumb/cyber-securityprotect-shield-8936474-7277200.png?f=webp" width="15"><b> Cybersecurity learning 
+- Cybersecurity learning 
 
-- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="15"> Developer learning 
+- Developer learning 
 <br>
 
 #
