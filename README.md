@@ -12,7 +12,7 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/1272731242588016764)](https://discord.com/users/1272731242588016764)
 
 
-<br>
+<br><br>
 #
 ### Programming languages & Frameworks :
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" width="50">
