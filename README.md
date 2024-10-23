@@ -1,5 +1,5 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+im+Sukida)](https://git.io/typing-svg)<br>
-[![](https://visitcount.itsvg.in/api?id=Sukidadev&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+im+Sukida)](https://git.io/typing-svg)
+
 
 ### I am passionate about managing and executing all types of projects.
 
@@ -26,4 +26,5 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="50"> 
 
 #
-### Github stats :<br><br> ![Sukida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukidadev&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukidadev&layout=compact&theme=radical)
+### Github stats :<br><br> ![Sukida's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sukidadev&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sukidadev&layout=compact&theme=radical)<br>
+[![](https://visitcount.itsvg.in/api?id=Sukidadev&label=Profile%20Views&color=5&icon=0&pretty=false)](https://visitcount.itsvg.in)
