@@ -22,7 +22,7 @@
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" width="50"><br>
 
 #
-### Tools :
+# Tools :
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" width="50"> 
 
 #
