@@ -7,6 +7,7 @@
 
 - <p><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/DevTo-Dark.svg" width="15"> Developer learning 
 <b></p><br>
+
 #
 ### 🌐 Contact me on discord :
 
