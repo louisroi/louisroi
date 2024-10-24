@@ -9,6 +9,7 @@
 #
 ## 🌐 Socials:
 <a href="https://discord.com/users/1272731242588016764"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+<a href="https://www.instagram.com/4sskim/"><img src="https://img.shields.io/badge/Instagram-%237289DA.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 #
 ## 🌐 Contact me on discord :
 
