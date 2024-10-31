@@ -29,7 +29,7 @@
 
 #
 ## 📊 Github stats : 
-![Sukidadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisroi&theme=dark&show_icons=true)
+![Sukidadev's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisroi&theme=dark&show_icons=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisroi&layout=compact&theme=dark)
 
 ---
