@@ -9,7 +9,7 @@
 #
 ## 🌐 Socials:
 <a href="https://discord.com/users/1272731242588016764"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://discord.gg/sourdinee"><img src="https://img.shields.io/badge/Discord Server-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Server"></a>
+<a href="https://discord.gg/tpln"><img src="https://img.shields.io/badge/Discord Server-%237289DA.svg?logo=discord&logoColor=white" alt="Discord Server"></a>
 <a href="https://www.instagram.com/4sskim/"><img src="https://img.shields.io/badge/Instagram-%23E60023.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 #
 ## 🌐 Contact me on discord :
